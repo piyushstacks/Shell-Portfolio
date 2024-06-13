@@ -1,33 +1,31 @@
 {
   "ascii": [
-    "███████╗██╗  ██╗███████╗██╗     ██╗",
-    "██╔════╝██║  ██║██╔════╝██║     ██║",
-    "███████╗███████║█████╗  ██║     ██║",
-    "╚════██║██╔══██║██╔══╝  ██║     ██║",
-    "███████║██║  ██║███████╗███████╗███████╗",
-    "╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝"
+    "██████╗ ██╗██╗   ██╗██╗   ██╗███████╗██╗  ██╗",
+    "██╔══██╗██║╚██╗ ██╔╝██║   ██║██╔════╝██║  ██║",
+    "██████╔╝██║ ╚████╔╝ ██║   ██║███████╗███████║",
+    "██╔═══╝ ██║  ╚██╔╝  ██║   ██║╚════██║██╔══██║",
+    "██║     ██║   ██║   ╚██████╔╝███████║██║  ██║",
+    "╚═╝     ╚═╝   ╚═╝    ╚═════╝ ╚══════╝╚═╝  ╚═╝",
+    "                                             "
   ],
   "title": "WebShell",
   "username": "guest",
-  "hostname": "piyushbhagchandani.com",
-  "password": "050823",
+  "hostname": "piyushb.com",
+  "password": "778899",
   "repoLink": "https://github.com/piyushstacks/Portfolio-v1",
   "social": {
-    "email": "hello@gmail.com",
+    "email": "hellopiyushb@gmail.com",
     "github": "piyushstacks",
-    "linkedin": "piyush-bhagchandani"
+    "linkedin": "piyush-bhagchandani",
+    "twitter": "PiyushStacks"
   },
-  "aboutGreeting": "Hey There. Welcome to WebShell.",
+  "aboutGreeting": "Hey, I'm Piyush Bhagchandani.",
+  "aboutGreeting2": "18 y/o self-taught software engineer into full-stack and AI development.",
   "projects": [
     [
       "JustAroundWeather",
       "Built With ReactJs And TailwindCSS",
       "https://github.com/piyushstacks/justweatheraround"
-    ],
-    [
-      "WebShell",
-      "Terminal styled website.",
-      "https://github.com/nasan016/webshell"
     ]
   ],
   "colors": {
@@ -40,14 +38,14 @@
     },
     "prompt": {
       "default": "#E1FD0F",
-      "user": "#CCC5B9",
+      "user": "#DAA89B",
       "host": "#D4F5F5 ",
       "input": "#E1FD0F"
     },
     "link": {
       "text": "#E1FD0F",
-      "highlightColor": "#9CF6F6",
-      "highlightText": "#E1FD0F"
+      "highlightColor": "#283F3B",
+      "highlightText": "#99DDC8"
     },
     "commands": {
       "textColor": "#E1FD0F"
