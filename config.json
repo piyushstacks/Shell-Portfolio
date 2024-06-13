@@ -8,21 +8,21 @@
     "╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝"
   ],
   "title": "WebShell",
-  "username": "visitor",
-  "hostname": "webshell",
+  "username": "guest",
+  "hostname": "piyushbhagchandani.com",
   "password": "050823",
-  "repoLink": "https://github.com/nasan016/webshell",
+  "repoLink": "https://github.com/piyushstacks/Portfolio-v1",
   "social": {
-    "email": "your@email.com",
-    "github": "yourgithub",
-    "linkedin": "you"
+    "email": "hello@gmail.com",
+    "github": "piyushstacks",
+    "linkedin": "piyush-bhagchandani"
   },
-  "aboutGreeting": "Hi stranger. Welcome to WebShell.",
+  "aboutGreeting": "Hey There. Welcome to WebShell.",
   "projects": [
     [
-      "GofeR",
-      "Vue.js reactivity in Go.",
-      "https://github.com/nasan016/gofer"
+      "JustAroundWeather",
+      "Built With ReactJs And TailwindCSS",
+      "https://github.com/piyushstacks/justweatheraround"
     ],
     [
       "WebShell",
@@ -31,26 +31,26 @@
     ]
   ],
   "colors": {
-    "background": "#0C0623",
-    "foreground": "#F8DDE5",
-    "banner": "#FF9951",
+    "background": "#141B41",
+    "foreground": "#C7DBE6",
+    "banner": "#43C59E",
     "border": {
       "visible": true,
-      "color": "#FFADE2"
+      "color": "#DBFCFF"
     },
     "prompt": {
-      "default": "#A5A7A7",
-      "user": "#FE6BC9",
-      "host": "#70FDFF",
-      "input": "#FF7685"
+      "default": "#E1FD0F",
+      "user": "#CCC5B9",
+      "host": "#D4F5F5 ",
+      "input": "#E1FD0F"
     },
     "link": {
-      "text": "#B6AAEE",
-      "highlightColor": "#FFADE2",
-      "highlightText": "#0C0623"
+      "text": "#E1FD0F",
+      "highlightColor": "#9CF6F6",
+      "highlightText": "#E1FD0F"
     },
     "commands": {
-      "textColor": "#FD9BDB"
+      "textColor": "#E1FD0F"
     }
   }
 }
